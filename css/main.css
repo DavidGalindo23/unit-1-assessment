@@ -1,0 +1,49 @@
+.container{ 
+    justify-content: center; 
+    align-items: center; 
+    position: relative;
+    top: 200px;
+}
+
+#count{ 
+    border: 2px solid grey; 
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    position: relative;
+    left: 350px; 
+}
+
+input{ 
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid grey;
+    height: 10px; 
+    width: 10px;
+    position: relative;
+    left: 350px; 
+    width: 50px;
+    height: 20px;
+    
+}
+#plus{ 
+    background-color: grey;
+    align-items: center;
+    float: left;
+    position: relative;
+    left: 335px;
+    height: 25px;
+    color: white;
+}
+
+#minus{ 
+    background-color: grey;
+    align-items: center;
+    float: right;
+    position: relative;
+    right: 360px;
+    height: 25px;
+    color: white; 
+}
